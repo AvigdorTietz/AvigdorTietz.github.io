@@ -1,13 +1,13 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
+title: Avigdor
+description: Beginner Python-Developer
+taglong: Beginner Python-Developer
 tagshort: Jekyll theme
-url: https://cvless.netlify.app
+url: https://avigdortietz.github.io/
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/AvigdorTietz/avigdortietz.github.io
 
 # author settings
 
